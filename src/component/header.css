@@ -1,0 +1,18 @@
+.header-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    background-color: #cbd5e0;
+    padding: 20px;
+    margin-bottom: 70px;
+}
+
+.header-area a {
+    text-decoration: none;
+    color: white;
+}
+
+.header-area a:hover {
+    text-decoration: underline;
+}
